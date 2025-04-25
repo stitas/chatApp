@@ -32,6 +32,8 @@ A user-friendly interface is recommended, built using **JavaFX** to enhance the 
 - JavaFX (GUI)
 - File-based data storage (`json`)
 
+---
+
 ![](https://raw.githubusercontent.com/stitas/chatApp/refs/heads/master/preview_images/image0.png)
 ![](https://raw.githubusercontent.com/stitas/chatApp/refs/heads/master/preview_images/image1.png)
 ![](https://raw.githubusercontent.com/stitas/chatApp/refs/heads/master/preview_images/image2.png)
